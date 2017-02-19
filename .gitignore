@@ -1,0 +1,13 @@
+.svn
+.hg*
+*.py?
+*.sw?
+*.orig
+*~
+.DS_Store
+
+/env
+.venv
+/venv
+/t411/local_settings.py
+/db.sqlite3
